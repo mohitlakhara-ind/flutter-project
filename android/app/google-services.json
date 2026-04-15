@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637654941054",
+    "project_id": "flutter-college-project",
+    "storage_bucket": "flutter-college-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637654941054:android:a4c66ffda524ee4855072f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9NjVInQr673I6wBW8IHVzXRvQ3MvrlxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

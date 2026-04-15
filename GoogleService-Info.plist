@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>637654941054-ianska826at8e6ie1ukb4l65c0m4f8cd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.637654941054-ianska826at8e6ie1ukb4l65c0m4f8cd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARO2RzcezYG-jD2bmqBDMyH1DMYnieZGc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>637654941054</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseNotesApp</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-college-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-college-project.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:637654941054:ios:a8c159fc36d4062855072f</string>
+</dict>
+</plist>
