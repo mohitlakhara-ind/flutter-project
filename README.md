@@ -8,11 +8,11 @@ A premium, cross-platform productivity application built with **Flutter** and **
 
 | Dashboard (Notes) | Focus Timer | Todo List |
 | :---: | :---: | :---: |
-| ![Dashboard](screenshots/mobile_dashboard.png) | ![Focus](screenshots/mobile_focus.png) | ![Todos](screenshots/mobile_todos.png) |
+| ![Dashboard](https://raw.githubusercontent.com/mohitlakhara-ind/flutter-project/master/screenshots/mobile_dashboard.png) | ![Focus](https://raw.githubusercontent.com/mohitlakhara-ind/flutter-project/master/screenshots/mobile_focus.png) | ![Todos](https://raw.githubusercontent.com/mohitlakhara-ind/flutter-project/master/screenshots/mobile_todos.png) |
 
 > [!TIP]
 > **Search Anywhere**: Use the global search overlay to find anything across your notes and tasks instantly.
-| ![Search Overlay](screenshots/mobile_search.png) |
+> ![Search Overlay](https://raw.githubusercontent.com/mohitlakhara-ind/flutter-project/master/screenshots/mobile_search.png)
 
 ---
 
@@ -58,7 +58,7 @@ A premium, cross-platform productivity application built with **Flutter** and **
 ### Setup
 1.  **Clone the repo**:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/mohitlakhara-ind/flutter-project.git
     ```
 2.  **Install dependencies**:
     ```bash
@@ -80,7 +80,4 @@ Designed for **Total Immersion** on mobile and web. Featuring:
 - **OLED Optimized**: Deep blacks and slate tones for premium readability.
 - **Glassmorphism**: Translucent navigation and overlays for a high-end feel.
 - **Micro-animations**: Smooth transitions between notes, tasks, and timer modes.
-
----
-
 
