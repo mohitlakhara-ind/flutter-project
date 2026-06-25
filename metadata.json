@@ -1,0 +1,14 @@
+{
+  "name": "flutter-project",
+  "description": "Professional learning codebase built with Dart.",
+  "topics": [
+    "dart",
+    "learning",
+    "optimized-portfolio"
+  ],
+  "homepage_url": "https://github.com/mohitlakhara-ind/flutter-project",
+  "private": false,
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true
+}
